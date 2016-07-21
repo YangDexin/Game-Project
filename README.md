@@ -71,4 +71,7 @@ We design dialogue and record it by ourself.
 ##Source of videos and photos:
 We draw character by photoshop application.
 
+![screen shot 2016-07-20 at 5 46 52](https://cloud.githubusercontent.com/assets/18043807/17007993/014821b2-4ea2-11e6-810e-8e7fbad62a4b.png)
+![screen shot 2016-07-20 at 5 53 59](https://cloud.githubusercontent.com/assets/18043807/17008075/006e8e24-4ea3-11e6-8553-a6da1f71be8f.png)
+
 
