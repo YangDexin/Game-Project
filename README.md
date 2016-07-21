@@ -3,7 +3,7 @@
 
 Mystery in The park
 
-##The script of the game
+##The script of the game:
 
 Jack and a old man both were doctor for researching a formula which is a virus is able to
 infects lives to be zombies. They were suppose to rule the world by making lives be zombies as
@@ -71,10 +71,12 @@ We design dialogue and record it by ourself.
 ##Source of videos and photos:
 We draw character by photoshop application.
 
+##screenshot:
+
 ![screen shot 2016-07-20 at 5 46 52](https://cloud.githubusercontent.com/assets/18043807/17007993/014821b2-4ea2-11e6-810e-8e7fbad62a4b.png)
+
 ![screen shot 2016-07-20 at 5 53 59](https://cloud.githubusercontent.com/assets/18043807/17008075/006e8e24-4ea3-11e6-8553-a6da1f71be8f.png)
 
-##screenshot:
 ![1464406769534](https://cloud.githubusercontent.com/assets/18043807/17008536/fd781dda-4ea6-11e6-8ce4-cc6a359d4043.gif)
 
 ![1464408313520](https://cloud.githubusercontent.com/assets/18043807/17008594/7afcd822-4ea7-11e6-9c8b-8521b9dfc364.gif)
