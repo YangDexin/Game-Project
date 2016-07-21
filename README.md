@@ -74,4 +74,8 @@ We draw character by photoshop application.
 ![screen shot 2016-07-20 at 5 46 52](https://cloud.githubusercontent.com/assets/18043807/17007993/014821b2-4ea2-11e6-810e-8e7fbad62a4b.png)
 ![screen shot 2016-07-20 at 5 53 59](https://cloud.githubusercontent.com/assets/18043807/17008075/006e8e24-4ea3-11e6-8553-a6da1f71be8f.png)
 
-
+##screenshot:
+![1464406769534](https://cloud.githubusercontent.com/assets/18043807/17008536/fd781dda-4ea6-11e6-8ce4-cc6a359d4043.gif)
+![1464408313520](https://cloud.githubusercontent.com/assets/18043807/17008594/7afcd822-4ea7-11e6-9c8b-8521b9dfc364.gif)
+![1464408700532](https://cloud.githubusercontent.com/assets/18043807/17008593/7af238b8-4ea7-11e6-9c3c-b0fd67d8e7b4.gif)
+![1464409371379](https://cloud.githubusercontent.com/assets/18043807/17008595/7afd6db4-4ea7-11e6-9ee7-b77116c9fa5f.gif)
