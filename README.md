@@ -38,11 +38,13 @@ mouse button is packing up the apple from the tree.
 2.There are three target enemies which are three difference kinds of dogs in this game.
 The gray one moves fastest and has weakest strength. The brown one moves slow, but has
 strongest strength. The brown-white dog is the general one which has normal speed and strength.
+
 The second game:
 1. Use up arrow ,down arrow ,left arrow and right arrow to control girl.
 2. You have to open first switch and rescued the boy.
 3. Then you must open second switch and go to the door in order to and pass this game.
 4. Meanwhile, you have to avoid all enemies.
+
 The third game:
 1.operating the game with your keyboard. Hit the 1,2,3 buttons on your keyboard.
 2.Button 1 is for eliminating the bananas, button 2 is for eliminating the strawberry, the button 3
